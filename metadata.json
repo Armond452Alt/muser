@@ -1,0 +1,6 @@
+{
+  "name": "Muser",
+  "description": "Turn your phone into a low-latency console microphone for PlayStation and Xbox party chat via AUX cable with speaker monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
